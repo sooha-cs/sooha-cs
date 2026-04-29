@@ -1,18 +1,28 @@
+<!--
+  sooha-cs / sooha-cs — Profile README
+  Upload this as README.md inside a repo named exactly: sooha-cs
+-->
 
+<!-- ══════════════════════════════════════════════════════
+     HEADER BANNER
+     Fixed: URL-encoded spaces & bullet characters correctly
+════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/main/header.svg" alt="Sooha header" width="100%" />
+
 <br/>
+
 <a href="https://github.com/sooha-cs">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sne+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Cybersec+Student+%26+Aspiring+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Digging+Deeper+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
+
 <br/><br/>
 
-<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=sooha-cs&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/sooha-cs?label=Followers&style=flat-square&color=a855f7&labelColor=0d0d1f)](https://github.com/sooha-cs?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/sooha-cs?label=Total%20Stars&style=flat-square&color=22d3ee&labelColor=0d0d1f)](https://github.com/sooha-cs)
--->
+
 </div>
 
 ---
@@ -36,7 +46,7 @@ const me = {
 
 - 🔐 I'm a cybersec student who's curious about how **things actually work under the hood**.
 - 🌱 Currently deep-diving into **customizing Linux distros & bash scripting**.
-- 🎯 2026 Goal: **Set up my home lab & get familiar with the tools**.
+- 🎯 2026 Goal: **Present my paper at a conference**.
 - ⚡ Fun fact: **I like capybaras**.
 - 📫 Reach me at: **sneha.patel.infosec@gmail.com**
 
@@ -84,9 +94,10 @@ const me = {
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s00ha)
+<!-- Replace {tryhackme-username} with your actual THM username (both places) -->
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/{tryhackme-username})
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/s00ha.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/{tryhackme-username}.png" alt="TryHackMe Badge" />
 
 </div>
 
@@ -130,7 +141,7 @@ const me = {
 &nbsp;
 [![PassPwned](https://github-readme-stats.vercel.app/api/pin/?username=sooha-cs&repo=pass-pwned&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0)](https://github.com/sooha-cs/pass-pwned)
 
-<!-- Adding more repos when ready:
+<!-- Add more repos when ready:
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=sooha-cs&repo=REPO-NAME&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0)](https://github.com/sooha-cs/REPO-NAME)
 -->
 
@@ -176,8 +187,7 @@ const me = {
 ## 🐍 Contribution Snake
 
 <!--
-  Imma try this later:
-  Steps: This image only appears AFTER you run the GitHub Action once.
+  ⚠️  This image only appears AFTER you run the GitHub Action once.
   One-time setup (5 min):
   1. In your sooha-cs repo → Actions → New workflow
   2. Paste this YAML and save as .github/workflows/snake.yml:
