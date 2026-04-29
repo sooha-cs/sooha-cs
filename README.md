@@ -1,14 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,50:1a0a2e,100:0d1a2e&height=280&section=header&text=Sooha&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Cybersec%20Student%20%C2%B7%20Information%20Security%20%C2%B7%20Aspiring%20Researcher&descAlignY=58&descColor=a855f7&animation=fadeIn" width="100%" />
-
+<img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/main/header.svg" alt="Sooha header" width="100%" />
 <br/>
-
 <a href="https://github.com/sooha-cs">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sne+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Cybersec+Student+%26+Aspiring+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Digging+Deeper+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 <br/><br/>
 
 <!--
