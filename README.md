@@ -97,7 +97,7 @@ const me = {
 <!-- Replace {tryhackme-username} with your actual THM username (both places) -->
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/{tryhackme-username})
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/{tryhackme-username}.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/s00ha.png" alt="TryHackMe Badge" />
 
 </div>
 
