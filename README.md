@@ -1,12 +1,3 @@
-<!--
-  sooha-cs / sooha-cs — Profile README
-  Upload this as README.md inside a repo named exactly: sooha-cs
--->
-
-<!-- ══════════════════════════════════════════════════════
-     HEADER BANNER
-     Fixed: URL-encoded spaces & bullet characters correctly
-════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/main/header.svg" alt="Sooha header" width="100%" />
@@ -186,7 +177,7 @@ const me = {
 
 ## 🐍 Contribution Snake
 
-<!--
+<!-- Imma do this later
   ⚠️  This image only appears AFTER you run the GitHub Action once.
   One-time setup (5 min):
   1. In your sooha-cs repo → Actions → New workflow
