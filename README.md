@@ -85,8 +85,7 @@ const me = {
 
 <div align="center">
 
-<!-- Replace {tryhackme-username} with your actual THM username (both places) -->
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/{tryhackme-username})
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s00ha)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/s00ha.png" alt="TryHackMe Badge" />
 
@@ -173,11 +172,9 @@ const me = {
 
 </div>
 
----
+<!-- ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
-<!-- Imma do this later
+Imma do this later
   ⚠️  This image only appears AFTER you run the GitHub Action once.
   One-time setup (5 min):
   1. In your sooha-cs repo → Actions → New workflow
@@ -205,12 +202,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   3. Run it manually once → the SVG will appear below automatically.
--->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
+-->
 ---
 
 <div align="center">
