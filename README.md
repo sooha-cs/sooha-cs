@@ -87,7 +87,6 @@ const me = {
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/s00ha)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/s00ha.png" alt="TryHackMe Badge" />
 
 </div>
 
@@ -104,9 +103,10 @@ const me = {
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sooha-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sooha-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&count_private=false" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooha-cs&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
+
 </div>
 
 <br/>
