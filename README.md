@@ -57,6 +57,7 @@ const me = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](
 
 ### `// Operating Systems`
 
@@ -164,7 +165,6 @@ const me = {
 
 <!-- ## 🐍 Contribution Snake
 
-Imma do this later
   ⚠️  This image only appears AFTER you run the GitHub Action once.
   One-time setup (5 min):
   1. In your sooha-cs repo → Actions → New workflow
@@ -192,12 +192,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   3. Run it manually once → the SVG will appear below automatically.
-
+-->
 <div align="center">
   <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
 
--->
+
 ---
 
 <div align="center">
