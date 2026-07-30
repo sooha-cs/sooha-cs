@@ -23,7 +23,7 @@
 ```typescript
 const me = {
   name      : "Sne",
-  role      : "Cybersecurity Student | Year 2",
+  role      : "Cybersecurity Student | Year 3",
   learning  : ["Networking", "Bash scripting for automation", "Log analysis"],
   goals2026 : "Present my paper at a conference !",
   funFact   : "I have sobbed at least once in each semester on college campus",
@@ -83,6 +83,12 @@ const me = {
 ---
 
 ## 📊 GitHub Stats
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 <div align="center">
 
@@ -162,39 +168,11 @@ const me = {
 
 </div>
 
-<!-- ## 🐍 Contribution Snake
-
-  ⚠️  This image only appears AFTER you run the GitHub Action once.
-  One-time setup (5 min):
-  1. In your sooha-cs repo → Actions → New workflow
-  2. Paste this YAML and save as .github/workflows/snake.yml:
-
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 12 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sooha-cs
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Run it manually once → the SVG will appear below automatically.
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</div>
+<picture data-importer="pacman">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sooha-cs/sooha-cs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sooha-cs/sooha-cs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sooha-cs/sooha-cs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 
 ---
