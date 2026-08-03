@@ -177,10 +177,6 @@ const me = {
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a2e,50:1a0a2e,100:0d0d1f&height=120&section=footer" width="100%" />
-
 *✦ Crafted with ♥ and too much caffeine · Always open to interesting conversations ✦*
 
 </div>
