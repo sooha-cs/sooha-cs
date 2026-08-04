@@ -6,7 +6,7 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate stats.svg
+        name: generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
