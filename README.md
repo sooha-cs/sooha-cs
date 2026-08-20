@@ -24,10 +24,9 @@
 const me = {
   name      : "Sne",
   role      : "Cybersecurity Student | Year 3",
-  learning  : ["Networking", "Bash scripting for automation", "Log analysis"],
+  learning  : ["Networking", "Assembly lang concepts", "Log analysis"],
   goals2026 : "Present my paper at a conference !",
   funFact   : "I have sobbed at least once in each semester on college campus",
-  contact   : "sneha.patel.infosec@gmail.com",
 };
 ```
 
@@ -35,11 +34,10 @@ const me = {
 <summary><b>✦ More about me</b></summary>
 <br/>
 
-- 🔐 I'm a cybersec student who's curious about how **things actually work under the hood**.
-- 🌱 Currently deep-diving into **customizing Linux distros & bash scripting**.
+- 🔐 I'm a cs student who's curious about how **things actually work under the hood**.
+- 🌱 Currently deep-diving into **networking**.
 - 🎯 2026 Goal: **Present my paper at a conference**.
 - ⚡ Fun fact: **I like capybaras**.
-- 📫 Reach me at: **sneha.patel.infosec@gmail.com**
 
 </details>
 
@@ -99,7 +97,7 @@ const me = {
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sooha-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sooha-cs&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&count_private=false"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooha-cs&layout=compact&theme=radical&hide_border=true&bg_color=0d0d1f&title_color=a855f7&text_color=e2e8f0&langs_count=8" />
 
@@ -140,11 +138,8 @@ const me = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sooha-cs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-patel-infosec)
 [![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hvnlyhs)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkivesofnene)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/soohaa.fps)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sneha.patel.infosec@gmail.com)
 
 </div>
 
