@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/sooha-cs">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sne+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;Cybersec+Student+%26+Aspiring+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Digging+Deeper+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sne+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe+%F0%9F%8C%8C;CS+Student+%26+Aspiring+Researcher+%F0%9F%94%90;Always+Learning%2C+Always+Digging+Deeper+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
