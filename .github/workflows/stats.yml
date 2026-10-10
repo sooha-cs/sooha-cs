@@ -1,4 +1,7 @@
-jobs:
+name: Generate Stats
+
+on:
+  jobs:
   generate:
     permissions:
       contents: write
