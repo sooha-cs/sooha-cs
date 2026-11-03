@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER: 1600x400 (4:1). assets/header.gif -->
-<img src="assets/header.svg" alt="header" width="100%" />
+<img src="assets/header.gif" alt="header" width="100%" />
 
 <a href="https://github.com/sooha-cs">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFD3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sne+%E2%9C%A6;Welcome+to+my+little+universe;Security+researcher+in+the+making;Always+learning%2C+always+digging+deeper" alt="typing" />
@@ -161,16 +161,17 @@ git clone https://github.com/sooha-cs/Thr34t-M4pp1ng-bcs-why-n0t && cd Thr34t-M4
 
 <!-- Replace the rows with real certs / CTF ranks. Delete the section if you'd rather not show it. -->
 
-| Certificate / Event | Issuer | Year |
+| Certificate / Experience | Issuer | Year |
 |:---|:---:|:---:|
-| [EDIT] e.g. Jr Penetration Tester | TryHackMe | 2026 |
-| [EDIT] e.g. CTF placement | [event] | 2026 |
-| [EDIT] e.g. Research paper (accepted / submitted) | [conference] | 2026 |
+| Cybersecurity Intern | Palo Alto Networks Cybersecurity Academy | 2026 |
+| Google Solutions Challenge | Google x H2S | 2026 |
+| Research paper (submitted) | TBA | 2026 |
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<!--
 ## ✦ Stats
 
 <div align="center">
@@ -190,6 +191,7 @@ git clone https://github.com/sooha-cs/Thr34t-M4pp1ng-bcs-why-n0t && cd Thr34t-M4
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
+-->
 
 ## ✦ Quote of the Day
 
@@ -209,8 +211,8 @@ git clone https://github.com/sooha-cs/Thr34t-M4pp1ng-bcs-why-n0t && cd Thr34t-M4
 *let's talk research, networking or capybaras*
 
 [![GitHub](https://img.shields.io/badge/GitHub-4A2A44?style=for-the-badge&logo=github&logoColor=FFD3EE)](https://github.com/sooha-cs)
-[![X](https://img.shields.io/badge/X-4A2A44?style=for-the-badge&logo=x&logoColor=FFD3EE)](https://x.com/{x_handle})
-[![Discord](https://img.shields.io/badge/Discord-4A2A44?style=for-the-badge&logo=discord&logoColor=FFD3EE)](https://discord.com/users/{discord_id})
+[![X](https://img.shields.io/badge/X-4A2A44?style=for-the-badge&logo=x&logoColor=FFD3EE)](https://x.com/hvnlyhs)
+[![Discord](https://img.shields.io/badge/Discord-4A2A44?style=for-the-badge&logo=discord&logoColor=FFD3EE)](https://discord.com/users/soohaa.fps)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-4A2A44?style=for-the-badge&logo=tryhackme&logoColor=FFD3EE)](https://tryhackme.com/p/s00ha)
 
 <br/>
