@@ -15,8 +15,6 @@
 
 <br/>
 
-[**ABOUT**](#-about-me) &nbsp;·&nbsp; [**SKILLS**](#-skills) &nbsp;·&nbsp; [**PROJECTS**](#-projects) &nbsp;·&nbsp; [**CERTS**](#-certificates--achievements) &nbsp;·&nbsp; [**CONTACT**](#-contact)
-
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -44,6 +42,8 @@ Understand the system first, then break it, then write about it.
 <br/>
 
 </details>
+
+[**SKILLS**](#-skills) &nbsp;·&nbsp; [**PROJECTS**](#-projects) &nbsp;·&nbsp; [**CERTS**](#-certificates--achievements) &nbsp;·&nbsp; [**CONTACT**](#-contact)
 
 <br clear="all" />
 
