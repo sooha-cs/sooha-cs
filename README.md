@@ -4,7 +4,7 @@
 <img src="assets/header.gif" alt="header" width="100%" />
 
 <a href="https://github.com/sooha-cs">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFD3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sne+%E2%9C%A6;Welcome+to+my+little+universe;Security+researcher+in+the+making;Always+learning%2C+always+digging+deeper" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FFD3EE&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nene+%E2%9C%A6;Welcome+to+my+little+universe;Security+researcher+in+the+making;Always+learning%2C+always+digging+deeper" alt="typing" />
 </a>
 
 <br/><br/>
@@ -26,13 +26,13 @@
 
 *get to know me*
 
-I'm a cybersecurity student who's curious about how **things actually work under the hood**.
+I'm a comp sci major interested in **vulnerability research**.
 Right now I'm deep-diving into **networking**, **assembly concepts** and **log analysis**.
 
 - 🎓 **Year:** 3rd
 - 🔬 **Focus:** Networking · RE
 - 🎯 **2026 goal:** present a paper at a conference
-- 🦫 **Fun fact:** likes capybaras
+- 🦫 **Fun fact:** I like capybaras
 
 <details>
 <summary><b>✦ my philosophy</b></summary>
